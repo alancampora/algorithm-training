@@ -7,11 +7,13 @@
 //[160, 3, 1719, 19, 11, 13, -21]
 //Should return: 160 (the only even number)
 
+//findOutliner: [Number] -> Number
 function findOutlier(integers){ 
   let isOddArray = isArrayOdd(integers[0],integers[1],integers[2]);
   return integers.find(filterDifferent(isOddArray));
 }
 
+//isArrayOdd: Number -> Number -> Number -> Boolean
 const isArrayOdd = (a,b,c) => {
   let isOddA = isOdd(a);
   let isOddB = isOdd(b);
