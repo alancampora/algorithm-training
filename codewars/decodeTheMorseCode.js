@@ -15,3 +15,12 @@ const getDecodedWords = (acum,word) => (acum += word.split(' ').reduce(getDecode
   
 const getDecodedChars = (acum, char) => (acum += MORSE_CODE[char], acum)
 
+
+
+/*
+ *BETTER SOLUTION
+
+ * decodeMorse = function(morseCode){
+ *      return morseCode.trim().split(/  | /).map( (code) => MORSE_CODE[code] || ' ').join('');
+ *`}
+ */
