@@ -5,6 +5,7 @@
  *
  *    Be careful 1000! has 2568 digits...
  *
+ *    -----> Here there is the way of doing it
  *    For more info, see: http://mathworld.wolfram.com/Factorial.html
  *
  *    Examples
