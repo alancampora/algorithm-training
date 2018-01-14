@@ -1,0 +1,14 @@
+push left 3
+push left 2
+push right 1
+push right 7
+[ 3, 2 ]
+push left 3
+push right 2
+[ 3 ]
+[ 2 ]
+[ 1, 7 ]
+push left 1
+push right 7
+[ 1 ]
+[ 7 ]
