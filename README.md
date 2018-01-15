@@ -1,6 +1,6 @@
 # Algorithms + katas + cci (book exercises)
 
-In our daily jobs, we face different problems, but they are no always realted to difficult algorithms. 
+In our jobs, we usually face different challenges but they are not always related to difficult algorithms. 
 That's why I saw the need of keeping my self training in different algorihtms exercises. 
 
 # Repo structure 
